@@ -10,3 +10,10 @@
 *.lai
 *.la
 *.a
+
+smath
+y.output
+smath.c 
+y.tab.c 
+parser.h 
+parser.c 
