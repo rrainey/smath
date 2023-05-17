@@ -3,8 +3,7 @@
 
 This is code I wrote back around 1996 and I'm publishing it here to have it out in the public forum.
 
-It mimics Mathemetica in syntax and operation. I used Mathematica around that time. I even used it to develop
-an analytical solution to one of the key simulation requirements in my ACM air combat simulator.
+It mimics Mathemetica in syntax and operation.
 
 ## What can you do with smath?
 
