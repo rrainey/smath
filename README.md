@@ -4,9 +4,9 @@
 This is code I wrote back around 1996 and I'm publishing it here to have it out in the public forum.
 
 It mimics Mathemetica in syntax and operation. I used Mathematica around that time. I even used it to develop
-an anlytical solution to one of the key simulation requirements in my ACM air combat simulator.
+an analytical solution to one of the key simulation requirements in my ACM air combat simulator.
 
-## What can you do with it?
+## What can you do with smath?
 
 SMath is more a curiosity than a complete symbolic math processor. Still, it is capable of demonstrating some basic math expression reduction
 using simple built-in rules.
@@ -48,7 +48,7 @@ Out[7] = (2 + b) (b - 2)
 
 ## Building
 
-Building requires a yacc adn lex variant.  On Linux:
+Building requires a yacc and a lex variant.  byacc, Bison, flex, and lex are supported. On Linux:
 
 ```
 $ sudo apt get install -y yacc flex
